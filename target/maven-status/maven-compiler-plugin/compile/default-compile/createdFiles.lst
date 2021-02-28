@@ -1,0 +1,7 @@
+pl\filipmikolajzeglen\config\AppConfig$1.class
+pl\filipmikolajzeglen\SpringDiApplication.class
+pl\filipmikolajzeglen\config\profiles\DevProfile.class
+pl\filipmikolajzeglen\beans\NamesRepository.class
+pl\filipmikolajzeglen\config\AppConfig.class
+pl\filipmikolajzeglen\config\DatabaseDatasource.class
+pl\filipmikolajzeglen\config\profiles\ProdProfile.class
